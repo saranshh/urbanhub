@@ -37,5 +37,5 @@
 **Deployed Link:**
 
 ```bash
-  Base URL: https://urban-hubb.vercel.app/
+  https://urban-hubb.vercel.app/
 ```
